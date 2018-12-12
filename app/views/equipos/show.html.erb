@@ -1,0 +1,23 @@
+<h1>Equipo:</h1>
+
+<p>
+  <strong>Nombre:</strong>
+  <%= @equipo.nom_equipo %>
+</p>
+
+<p>
+  <title>Descripcion:</title>
+  <%= @equipo.activo_equipo %>
+</p>
+
+<p>
+  <strong>Probabilidades de Ganar:</strong>
+  <%= @equipo.porcentaje %>
+</p>
+
+
+<p id="notice"><%= notice %></p>
+
+<%= link_to 'Edit', edit_equipo_path(@equipo) %> |
+<%= link_to 'Delete', @equipo, method: :delete, data: {confirm: 'Estas seguro?'} %>
+<%= link_to 'Back', equipos_path %>

@@ -1,0 +1,17 @@
+<%= form_for(grupo_index_path) do |form| %>
+  <% if @grupos.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@grupos.errors.count, "error") %> No se permitio este grupo de ser creado</h2>
+
+      <ul>
+      <% @grupos.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>

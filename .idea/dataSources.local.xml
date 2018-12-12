@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails proyecto-nucleo-2: development" uuid="c14af33c-30ac-4776-89c0-11ec5f7dbfb8">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>postgres</user-name>
+    </data-source>
+    <data-source name="Rails proyecto-nucleo-2: default" uuid="939c621d-76cc-492a-935c-000e5f06fa95">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>postgres</user-name>
+    </data-source>
+    <data-source name="Rails proyecto-nucleo-2: test" uuid="4b0de31d-bdaa-40e5-9efa-e9be3546832f">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>postgres</user-name>
+    </data-source>
+    <data-source name="Rails proyecto-nucleo-2: production" uuid="a4e8aa17-0b47-4c1c-9912-36c607db6b2e">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>proyecto-nucleo-2</user-name>
+    </data-source>
+  </component>
+</project>

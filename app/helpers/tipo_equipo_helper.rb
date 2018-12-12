@@ -1,0 +1,2 @@
+module TipoEquipoHelper
+end

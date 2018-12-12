@@ -1,0 +1,25 @@
+<h1>Listado de Resultados</h1>
+
+<%= link_to 'Crear nuevo Resultado', new_resultado_path %>
+<%= link_to 'Atras ', welcome_index_path %>
+
+<table>
+  <tr>
+    <th>Codigo</th>
+    <th>Enfrentamiento</th>
+    <th>Puntos de partido</th>
+    <th>Goles marcados</th>
+    <th>Goles recibidos</th>
+  </tr>
+
+  <% @resultado.each do |resultados| %>
+    <tr>
+      <td><%= resultados.cod_resultado %></td>
+      <td><%= resultados.enfrentamiento %></td>
+      <td><%= resultados.puntos_partido %></td>
+      <td><%= resultados.goles_marcados %></td>
+      <td><%= resultados.goles_recibidos %></td>
+      <td><%= link_to 'Mostrar', resultado_path(@resultados) %></td>
+    </tr>
+  <% end %>
+</table>

@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cod_equipo: 1
+  nom_equipo: MyText
+  activo_equipo: false
+  fecha_creacion: 2018-04-06 18:59:58
+
+two:
+  cod_equipo: 1
+  nom_equipo: MyText
+  activo_equipo: false
+  fecha_creacion: 2018-04-06 18:59:58

@@ -1,0 +1,35 @@
+<h1>Resultados</h1>
+
+<%= simple_form_for :resultados, url:resultados_path do |f| %>
+  <p>
+    <%= f.label :cod_resultado %><br>
+    <%= f.text_field :cod_resultado %>
+  </p>
+
+  <p>
+    <%= f.label :enfrentamiento %><br>
+    <%= f.text_area :enfrentamiento %>
+  </p>
+
+  <p>
+    <%= f.label :puntos_partido %><br>
+    <%= f.text_area :puntos_partido %>
+  </p>
+
+  <p>
+    <%= f.label :goles_marcados %><br>
+    <%= f.text_area :goles_marcados %>
+  </p>
+
+  <p>
+    <%= f.label :goles_recibidos %><br>
+    <%= f.text_area :goles_recibidos %>
+  </p>
+
+  <p>
+    <%= f.submit %>
+  </p>
+<% end %>
+
+<%= link_to 'Volver Atras', resultados_path %>
+<%= render 'form', resultado: @resultado %>

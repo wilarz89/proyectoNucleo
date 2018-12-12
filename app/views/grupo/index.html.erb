@@ -1,0 +1,24 @@
+<h1>Listado de Grupos y sus equipos</h1>
+
+<%= link_to 'Crear nuevo grupo', new_grupo_path %>
+<%= link_to 'Atras ', welcome_index_path %>
+
+<table>
+  <tr>
+    <th>Codigo</th>
+    <th>Nombre</th>
+    <th>Activo</th>
+    <th>Descripcion</th>
+  </tr>
+
+  <% @grupos.each do |grupo| %>
+    <tr>
+      <td><%= grupo.cod_tipo_equipo %></td>
+      <td><%= grupo.nom_tipo_equipo %></td>
+      <td><%= grupo.activo_tipo_equipo %></td>
+      <td><%= grupo.descripcion %></td>
+      <td><%= link_to 'Mostrar', grupo_path(grupo) %></td>
+      <td><%= link_to 'Editar', edit_grupo_path(grupo) %></td>
+    </tr>
+  <% end %>
+</table>

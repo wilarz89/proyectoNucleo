@@ -1,0 +1,36 @@
+<h1>Grupo:</h1>
+
+<%= simple_form_for :grupo,url: new_grupo_path do |f| %>
+  <% if @grupos.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@grupos.errors.count, "error") %><br> No se pudo guardar el grupo:</h2>
+      <ul>
+        <% @grupos.errors.full_messages.each do |msg| %>
+          <li><%= msg %></li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+  <p>
+    <%= f.label :Codigo %><br>
+    <%= f.text_field :cod_tipo_equipo %>
+  </p>
+
+  <p>
+    <%= f.label :Nombre %><br>
+    <%= f.text_area :nom_tipo_equipo %>
+  </p>
+
+  <p>
+    <%= f.label :Descripcion %><br>
+    <%= f.text_area :descripcion %>
+  </p>
+
+  <p>
+    <%= f.submit %>
+  </p>
+<% end %>
+
+
+<%= link_to 'Volver Atras', grupo_index_path %>
+<%= render 'form', grupo: @grupos %>

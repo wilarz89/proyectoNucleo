@@ -1,0 +1,21 @@
+<h1>Grupo</h1>
+
+<p>
+  <strong>Grupo:</strong>
+  <%=@grupos.nom_tipo_equipo %>
+</p>
+
+<p>
+  <strong>Descripcion:</strong>
+  <%=@grupos.descripcion %>
+</p>
+
+
+<p id="notice"><%= notice %></p>
+
+
+
+
+<%= link_to 'Edit', edit_grupo_path(@grupos) %>
+<%= link_to 'Delete', @grupos, method: :delete, data: {confirm: 'Estas seguro?'} %>
+<%= link_to 'Back', grupo_index_path %>

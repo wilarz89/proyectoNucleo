@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cod_resultado: 1
+  enfrentamiento: MyText
+  puntos_partido: 1
+  goles_marcados: 1
+  goles_recibidos: 1
+
+two:
+  cod_resultado: 1
+  enfrentamiento: MyText
+  puntos_partido: 1
+  goles_marcados: 1
+  goles_recibidos: 1

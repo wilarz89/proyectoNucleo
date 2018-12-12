@@ -1,0 +1,838 @@
+1;1;'vs Lituania';3;3;0; current_date;current_date
+2;2;'vs Francia';0;2;4; current_date;current_date
+3;3; 'vs Republica Checa';0;1;2; current_date;current_date
+4;4;  'vs Serbia';1;1;1; current_date;current_date
+5;5; 'vs Inglaterra';1;1;1; current_date;current_date
+6;6;  'vs Eslovaquia';0;1;2; current_date;current_date
+7;7;  'vs Gales';0;0;3; current_date;current_date
+8;8; 'vs Turquia';1;0;0; current_date;current_date
+9;9;  'vs Ghana';3;1;0; current_date;current_date
+10;10;  'vs Costa Rica' ;0;3;4; current_date;current_date
+11;11;  'vs Catar' ;0;1;2; current_date;current_date
+12;12;  'vs Rumania' ;3;1;0; current_date;current_date
+13;13;  'vs Costa de Marfil' ;0;0;2; current_date;current_date
+14;14;  'vs B�lgica' ;1;3;3; current_date;current_date
+15;15;  'vs Hungr�a' ;3;3;0; current_date;current_date
+16;16;  'vs Chile' ;1;1;1; current_date;current_date
+17;17;  'vs Nueva Zelanda' ;3;2;0; current_date;current_date
+18;18; 'vs Portugal' ;0;0;1; current_date;current_date
+19;19;  'vs Mexico' ;0;1;2; current_date;current_date
+20;20;  'vs Dinamo de Mosc�' ;3;3;0; current_date;current_date
+21;21;  'vs Rep�blica de Corea' ;3;4;2; current_date;current_date
+22;22;  'vs Ir�n';1;1;1; current_date;current_date
+23;23;  'vs Argentina' ;0;0;1; current_date;current_date
+24;24;  'vs Espa�a' ;1;3;3; current_date;current_date
+25;25;  'vs Jordania' ;0;0;1; current_date;current_date
+26;26;  'vs Libia' ;3;2;0; current_date;current_date
+27;27;  'vs Burkina Faso' ;3;2;0; current_date;current_date
+28;28;  'vs Nigeria' ;1;1;1; current_date;current_date
+29;29;  'vs Nigeria' ;3;1;0; current_date;current_date
+30;30;  'vs Tanzania' ;3;2;0; current_date;current_date
+31;31; 'vs Guinea' ;1;1;1; current_date;current_date
+32;32;  'vs Sud�frica' ;0;0;1; current_date;current_date
+33;33; 'vs Congo' ;3;2;1; current_date;current_date
+34;34;  'vs Ghana' ;3;2;0; current_date;current_date
+35;35;  'vs T�nez' ;3;1;0; current_date;current_date
+36;36;  'vs Mal�' ;1;0;0; current_date;current_date
+37;37;  'vs Uganda' ;3;1;0; current_date;current_date
+38;38;  'vs Ghana' ;3;1;0; current_date;current_date
+39;39;  'vs Marruecos' ;3;1;0; current_date;current_date
+40;40;  'vs Burkina Faso' ;1;1;1; current_date;current_date
+41;41;  'vs Camer�n' ;0;1;2; current_date;current_date
+42;42;  'vs Togo' ;3;3;0; current_date;current_date
+43;43;  'vs Yemen' ;3;1;0; current_date;current_date
+44;44;  'vs Libia' ;3;1;0; current_date;current_date
+45;45;  'vs T�nez' ;0;0;1; current_date;current_date
+46;46;  'vs Marruecos' ;1;1;1; current_date;current_date
+47;47;  'vs Marruecos' ;0;1;3; current_date;current_date
+48;48;  'vs Uganda' ;0;0;1; current_date;current_date
+49;49;  'vs Uganda' ;3;1;0; current_date;current_date
+50;50;  'vs Congo' ;3;2;1; current_date;current_date
+51;51;  'vs Malasia';3;2;0; current_date;current_date
+52;52;  'vs Emiratos �rabes' ;1;1;1; current_date;current_date
+53;53;  'vs Laos' ;3;4;0; current_date;current_date
+54;54;  'vs Tailandia' ;3;1;0; current_date;current_date
+55;55;  'vs Irak' ;3;2;1; current_date;current_date
+56;56;  'vs Australia' ;1;2;2; current_date;current_date
+57;57;  'vs Emiratos �rabes' ;3;3;0; current_date;current_date
+58;58;  'vs Jap�n' ;0;1;2; current_date;current_date
+59;59;  'vs Eslovenia' ;1;0;0; current_date;current_date
+60;60;  'vs Camboya' ;3;7;2; current_date;current_date
+61;61;  'vs Tailandia' ;3;3;0; current_date;current_date
+62;62;  'vs Irak' ;3;1;0; current_date;current_date
+63;63;  'vs Australia' ;0;2;3; current_date;current_date
+64;64;  'vs Emiratos �rabes' ;0;1;2; current_date;current_date
+65;65;  'vs Jap�n' ;3;1;0; current_date;current_date
+66;66;  'vs Letonia' ;3;2;0; current_date;current_date
+67;67;  'vs Portugal' ;0;0;3; current_date;current_date
+68;68;  'vs Bulgaria' ;0;0;1; current_date;current_date
+69;69;  'vs Kuwait' ;3;2;1; current_date;current_date
+70;70;  'vs Emiratos �rabes' ;1;0;0; current_date;current_date
+71;71;  'vs Om�n' ;0;0;2; current_date;current_date
+72;72;  'vs Moldavia' ;3;3;0; current_date;current_date
+73;73;  'vs Irak' ;0;1;4; current_date;current_date
+74;74;  'vs Brasil' ;1;2;2; current_date;current_date
+75;75;  'vs Per�' ;3;1;0; current_date;current_date
+76;76;  'vs Trinidad y Tobago' ;3;3;1; current_date;current_date
+77;77;  'vs M�xico' ;0;1;3; current_date;current_date
+78;78;  'vs Venezuela' ;0;0;1; current_date;current_date
+79;79;  'vs Jamaica' ;3;3;0; current_date;current_date
+80;80;  'vs Argentina' ;0;0;1; current_date;current_date
+81;81;  'vs Paraguay' ;3;4;0; current_date;current_date
+82;82;  'vs Venezuela' ;3;3;0; current_date;current_date
+83;83;  'vs Colombia' ;1;2;2; current_date;current_date
+84;84;  'vs Ecuador' ;3;2;1; current_date;current_date
+85;85;  'vs Chile' ;0;1;3; current_date;current_date
+86;86;  'vs Brasil' ;0;1;4; current_date;current_date
+87;87;  'vs Per�' ;0;1;2; current_date;current_date
+88;88;  'vs Irlanda' ;0;1;3; current_date;current_date
+89;89;  'vs Italia' ;0;0;3; current_date;current_date
+90;90;  'vs Argentina' ;1;0;0; current_date;current_date
+91;91;  'vs Paraguay' ;3;2;1; current_date;current_date
+92;92;  'vs Venezuela' ;1;0;0; current_date;current_date
+93;93;  'vs Bolivia' ;3;4;2; current_date;current_date
+94;94;  'vs Polonia' ;1;0;0; current_date;current_date
+95;95;  'vs Austria' ;0;1;2; current_date;current_date
+96;96;  'vs Bulgaria' ;0;0;1; current_date;current_date
+97;97;  'vs Belgica' ;3;2;1; current_date;current_date
+98;98;  'vs Noruega' ;3;3;0; current_date;current_date
+99;99;  'vs Inglaterra' ;0;0;1; current_date;current_date
+100;100;  'vs Estonia' ;3;7;0; current_date;current_date
+101;101;  'vs Islandia' ;1;1;1; current_date;current_date
+102;102;  'vs Austria' ;1;0;0; current_date;current_date
+103;103;  'vs Hungr�a' ;1;3;3; current_date;current_date
+104;104;  'vs Croacia' ;3;1;0; current_date;current_date
+105;105;  'vs Polonia' ;1;1;1; current_date;current_date
+106;106;  'vs Gales' ;3;2;0; current_date;current_date
+107;107;  'vs Francia' ;3;1;0; current_date;current_date
+108;108;  'vs Gibraltar' ;3;5;0; current_date;current_date
+109;109;  'vs Suiza' ;0;0;2; current_date;current_date
+110;110;  'vs Andorra' ;3;6;0; current_date;current_date
+111;111;  'vs Islas Faroe' ;3;6;0; current_date;current_date
+112;112;  'vs Letonia' ;3;4;1; current_date;current_date
+113;113;  'vs Hungr�a' ;3;3;0; current_date;current_date
+114;114;  'vs Suecia' ;0;2;3; current_date;current_date
+115;115;  'vs Chipre' ;3;4;0; current_date;current_date
+116;116;  'vs Letonia' ;3;3;0; current_date;current_date
+117;117;  'vs M�xico' ;1;2;2; current_date;current_date
+118;118;  'vs Rusia' ;3;1;0; current_date;current_date
+119;119;  'vs Nueva Zelanda' ;3;4;0; current_date;current_date
+120;120;  'vs Chile' ;1;0;0; current_date;current_date
+121;121;  'vs M�xico' ;3;2;1; current_date;current_date
+122;122;  'vs Islas Faroe' ;3;5;1; current_date;current_date
+123;123;  'vs Hungr�a' ;3;1;0; current_date;current_date
+124;124;  'vs Andorra' ;3;2;0; current_date;current_date
+125;125; 'vs Suiza' ;3;2;0; current_date;current_date
+126;126;  'vs Arabia Saud�ta' ;3;3;0; current_date;current_date
+127;127;  'vs EE.UU' ;1;1;1; current_date;current_date
+128;128;  'vs Italia' ;1;1;1; current_date;current_date
+129;129;  'vs Rumania' ;1;0;0; current_date;current_date
+130;130;  'vs Bosnia' ;3;3;1; current_date;current_date
+131;131;  'vs Rep�blica de Corea' ;3;6;1; current_date;current_date
+132;132;  'vs Georgia' ;0;0;1; current_date;current_date
+133;133;  'vs Rep�blica Checa' ;3;1;0; current_date;current_date
+134;134;  'vs Turqu�a' ;3;3;0; current_date;current_date
+135;135;  'vs Croacia' ;0;1;2; current_date;current_date
+136;136;  'vs Italia' ;0;0;2; current_date;current_date
+137;137;  'vs B�lgica' ;3;2;0; current_date;current_date
+138;138;  'vs Liechtenstein' ;3;8;0; current_date;current_date
+139;139;  'vs Italia' ;1;1;1; current_date;current_date
+140;140;  'vs Albania' ;3;2;0; current_date;current_date
+141;141;  'vs Macedonia' ;3;4;0; current_date;current_date
+142;142;  'vs Inglaterra' ;1;2;2; current_date;current_date
+143;143;  'vs Israel' ;3;4;1; current_date;current_date
+144;144;  'vs Francia' ;3;2;0; current_date;current_date
+145;145;  'vs Colombia' ;1;2;2; current_date;current_date
+146;146;  'vs Macedonia' ;3;2;1; current_date;current_date
+147;147;  'vs Italia' ;3;3;0; current_date;current_date
+148;148;  'vs Liechtenstein' ;3;8;0; current_date;current_date
+149;149;  'vs Albania' ;3;3;0; current_date;current_date
+150;150;  'vs Israel' ;3;1;0; current_date;current_date
+151;151;  'vs Costa Rica' ;3;5;0; current_date;current_date
+152;152;  'vs Rusia' ;1;3;3; current_date;current_date
+153;153;  'vs India' ;3;4;0; current_date;current_date
+154;154;  'vs Om�n' ;3;2;0; current_date;current_date
+155;155;  'vs Macedonia' ;3;3;1; current_date;current_date
+156;156;  'vs Kirguizist�n' ;3;6;0; current_date;current_date
+157;157;  'vs SPAL' ;3;3;0; current_date;current_date
+158;158;  'vs Catar' ;3;2;0; current_date;current_date
+159;159;  'vs China' ;1;0;0; current_date;current_date
+160;160;  'vs Uzbekist�n' ;3;1;0; current_date;current_date
+161;161;  'vs Rep�blica de Corea' ;3;1;0; current_date;current_date
+162;162;  'vs Nueva Guinea' ;3;8;1; current_date;current_date
+163;163;  'vs Siria' ;1;0;0; current_date;current_date
+164;164;  'vs Irak' ;0;0;1; current_date;current_date
+165;165;  'vs Catar' ;3;1;0; current_date;current_date
+166;166;  'vs China' ;3;1;0; current_date;current_date
+167;167;  'vs Montenegro' ;3;2;1; current_date;current_date
+168;168;  'vs Uzbekist�n' ;3;2;0; current_date;current_date
+169;169;  'vs Rep�blica de corea' ;1;0;0; current_date;current_date
+170;170;  'vs Siria' ;1;2;2; current_date;current_date
+171;171;  'vs Togo' ;3;2;0; current_date;current_date
+172;172;  'vs Rusia' ;1;1;1; current_date;current_date
+173;173;  'vs Panam�' ;3;2;1; current_date;current_date
+174;174;  'vs Venezuela' ;3;1;0; current_date;current_date
+175;175;  'vs Gab�n' ;1;0;0; current_date;current_date
+176;176;  'vs Costa de Marfil' ;0;0;1; current_date;current_date
+177;177;  'vs Ruanda' ;3;4;1; current_date;current_date
+178;178;  'vs Isla de Cabo Verde' ;3;1;0; current_date;current_date
+179;179;  'vs Congo' ;3;2;0; current_date;current_date
+180;180;  'vs Libia' ;1;1;1; current_date;current_date
+181;181;  'vs Albania' ;1;0;0; current_date;current_date
+182;182;  'vs Santo Tom� y Principe' ;3;2;0; current_date;current_date
+183;183;  'vs Gab�n' ;1;0;0; current_date;current_date
+184;184;  'vs Canad�' ;3;4;0; current_date;current_date
+185;185;  'vs Costa de Marfil' ;1;0;0; current_date;current_date
+186;186;  'vs Togo' ;3;2;1; current_date;current_date
+187;187;  'vs Burkina Faso' ;3;1;0; current_date;current_date
+188;188;  'vs Finlandia' ;0;0;1; current_date;current_date
+189;189;  'vs Congo' ;0;0;1; current_date;current_date
+190;190;  'vs Togo' ;3;3;1; current_date;current_date
+191;191;  'vs Costa de Marfil' ;3;1;0; current_date;current_date
+192;192;  'vs Egipto' ;0;0;1; current_date;current_date
+193;193;  'vs Burkina Faso' ;3;2;0; current_date;current_date
+194;194;  'vs T�nez' ;3;1;0; current_date;current_date
+195;195;  'vs Holanda' ;0;1;2; current_date;current_date
+196;196;  'vs Camer�n' ;0;0;1; current_date;current_date
+197;197;  'vs Egipto' ;1;1;1; current_date;current_date
+198;198;  'vs Egipto' ;3;3;1; current_date;current_date
+199;199;  'vs Mal�' ;3;6;0; current_date;current_date
+200;200;  'vs Mal�' ;1;0;0; current_date;current_date
+201;201;  'vs Gab�n' ;3;3;0; current_date;current_date
+202;202;  'vs Rep�blica de corea' ;3;3;1; current_date;current_date
+203;203;  'vs Costa de Marfil' ;3;2;0; current_date;current_date
+204;204;  'vs Mauritania' ;3;4;0; current_date;current_date
+205;205;  'vs Guinea' ;3;3;1; current_date;current_date
+206;206;  'vs Sud�n' ;1;0;0; current_date;current_date
+207;207;  'vs Namibia' ;3;2;0; current_date;current_date
+208;208;  'vs Libia' ;3;3;1; current_date;current_date
+209;209;  'vs Nigeria' ;3;4;0; current_date;current_date
+210;210;  'vs Holanda' ;3;3;2; current_date;current_date
+211;211;  'vs Rusia' ;3;4;2; current_date;current_date
+212;212;  'vs Camer�n' ;3;3;2; current_date;current_date
+213;213; 'vs Escocia' ;3;3;0; current_date;current_date
+214;214;  'vs Rumania' ;3;2;1; current_date;current_date
+215;215;  'vs Albania' ;3;2;0; current_date;current_date
+216;216;  'vs Suiza' ;1;0;0; current_date;current_date
+217;217;  'vs Irlanda' ;3;2;1; current_date;current_date
+219;219;  'vs Islandia' ;3;5;2; current_date;current_date
+220;220;  'vs Alemania' ;3;2;0; current_date;current_date
+221;221;  'vs Portugal'  ;0;0;1; current_date;current_date
+222;222;  'vs Italia' ;3;3;1; current_date;current_date
+223;223;  'vs Bielorrusia' ;1;0;0; current_date;current_date
+224;224;  'vs Bulgar�a' ;3;4;1; current_date;current_date
+225;225;  'vs Holanda' ;3;1;0; current_date;current_date
+226;226;  'vs Suecia' ;3;2;1; current_date;current_date
+227;227;  'vs Costa de Marfil' ;1;0;0; current_date;current_date
+228;228;  'vs Luxemburgo' ;3;3;1; current_date;current_date
+229;229;  'vs Espa�a' ;0;0;2; current_date;current_date
+230;230;  'vs Paraguay' ;3;5;0; current_date;current_date
+231;231;  'vs Suecia' ;0;1;2; current_date;current_date
+232;232;  'vs Inglaterra' ;3;3;2; current_date;current_date
+233;233;  'vs Holanda' ;3;4;0; current_date;current_date
+234;234;  'vs Luxemburgo' ;1;0;0; current_date;current_date
+235;235;  'vs Bulgaria' ;3;1;0; current_date;current_date
+236;236;  'vs Bielorrusia' ;3;2;1; current_date;current_date
+237;237;  'vs Gales' ;3;2;0; current_date;current_date
+238;238;  'vs Alemania' ;1;2;2; current_date;current_date
+239;239;  'vs Venezuela ' ;1;2;2; current_date;current_date
+240;240;  'vs Uruguay' ;0;0;1; current_date;current_date
+241;241;  'vs Trinidad y Tobago' ;3;4;0; current_date;current_date
+242;242;  'vs El salvador' ;3;3;1; current_date;current_date
+243;243;  'vs Hait�' ;3;1;0; current_date;current_date
+244;244;  'vs Ecuador' ;1;2;2; current_date;current_date
+245;245;  'vs Brasil' ;3;1;0; current_date;current_date
+246;246;  'vs Colombia' ;1;0;0; current_date;current_date
+247;247;  'vs Bolivia' ;3;3;0; current_date;current_date
+248;248;  'vs Ecuador' ;3;2;1; current_date;current_date
+249;249;  'vs Argentina' ;1;2;2; current_date;current_date
+250;250;  'vs Chile' ;0;1;2; current_date;current_date
+251;251;  'vs Paraguay' ;3;4;1; current_date;current_date
+252;252;  'vs Brasil' ;0;0;2; current_date;current_date
+253;253;  'vs Venezuela' ;1;2;2; current_date;current_date
+254;254;  'vs Uruguay' ;3;2;1; current_date;current_date
+255;255;  'vs Paraguay' ;3;1;0; current_date;current_date
+256;256;  'vs Jamaica' ;3;3;1; current_date;current_date
+257;257;  'vs Bolivia' ;3;2;1; current_date;current_date
+258;258;  'vs Ecuador' ;3;2;1; current_date;current_date
+259;259;  'vs Argentina' ;1;0;0; current_date;current_date
+260;260;  'vs Colombia' ;1;1;1; current_date;current_date
+261;261;  'vs Nueva Zelanda' ;1;0;0; current_date;current_date
+262;262;  'vs Nueva Zelanda' ;3;2;0; current_date;current_date
+263;263;  'vs Islandia' ;3;2;1; current_date;current_date
+264;264;  'vs Escocia' ;0;0;1; current_date;current_date
+265;265;  'vs Bosnia' ;1;2;2; current_date;current_date
+266;266;  'vs Bulgaria' ;3;4;0; current_date;current_date
+267;267;  'vs Liechtenstein' ;3;5;0; current_date;current_date
+268;268; 'vs Armenia' ;3;1;0; current_date;current_date
+269;269;  'vs Polonia' ;0;2;3; current_date;current_date
+270;270;  'vs Montenegro' ;0;0;1; current_date;current_date
+271;271;  'vs Kazajist�n' ;3;4;1; current_date;current_date
+272;272;  'vs Rep�blica Checa' ;1;1;1; current_date;current_date
+273;273;  'vs Rumania' ;1;0;0; current_date;current_date
+274;274;  'vs Alemania' ;1;1;1; current_date;current_date
+275;275;  'vs Kazajist�n' ;3;3;1; current_date;current_date
+276;276;  'vs Polonia' ;3;4;0; current_date;current_date
+277;277;  'vs Armenia' ;3;4;1; current_date;current_date
+278;278;  'vs Montenegro' ;3;1;0; current_date;current_date
+279;279;  'vs Ruman�a' ;1;1;1; current_date;current_date
+280;280;  'vs Irlandia' ;1;0;0; current_date;current_date
+281;281;  'vs Irlanda' ;3;5;1; current_date;current_date
+282;282;  'vs Suecia' ;0;0;1; current_date;current_date
+283;283;  'vs Jordania' ;0;2;3; current_date;current_date
+284;284;  'vs Tayikist�n' ;3;7;0; current_date;current_date
+285;285;  'vs Jordania' ;3;5;1; current_date;current_date
+286;286;  'vs Inglaterra' ;0;1;2; current_date;current_date
+287;287;  'vs Grecia' ;0;1;2; current_date;current_date
+288;288;  'vs Grecia' ;3;1;0; current_date;current_date
+289;289;  'vs Irak' ;3;2;0; current_date;current_date
+290;290;  'vs Emiratos �rabes' ;3;1;0; current_date;current_date
+291;291;  'vs Arabia Saud�ta' ;1;2;2; current_date;current_date
+292;292;  'vs Jap�n' ;1;1;1; current_date;current_date
+293;293;  'vs Tailandia' ;1;2;2; current_date;current_date
+294;294;  'vs Irak' ;1;1;1; current_date;current_date
+295;295;  'vs Emiratos �rabes' ;3;2;0; current_date;current_date
+296;296;  'vs Arabia Saudita' ;3;2;0; current_date;current_date
+297;297;  'vs Brasil' ;0;0;4; current_date;current_date
+298;298;  'vs Alemania' ;0;2;3; current_date;current_date
+299;299;  'vs Camer�n' ;1;1;1; current_date;current_date
+300;300;  'vs Chile' ;1;1;1; current_date;current_date
+301;301;  'vs Jap�n' ;0;0;2; current_date;current_date
+302;302;  'vs Tailandia' ;3;2;1; current_date;current_date
+303;303;  'vs Siria' ;1;1;1; current_date;current_date
+304;304;  'vs Siria' ;3;2;1; current_date;current_date
+305;305;  'vs Honduras' ;1;0;0; current_date;current_date
+306;306;  'vs Honduras' ;3;3;1; current_date;current_date
+307;307;  'vs Chile' ;3;2;1; current_date;current_date
+308;308;  'vs Bolivia' ;3;2;0; current_date;current_date
+309;309;  'vs Honduras' ;3;1;0; current_date;current_date
+310;310;  'vs Chile' ;3;2;1; current_date;current_date
+311;311;  'vs Panam�' ;3;5;0; current_date;current_date
+312;312;  'vs Bolivia' ;3;3;0; current_date;current_date
+313;313;  'vs Venezuela' ;3;4;1; current_date;current_date
+314;314;  'vs EE.UU' ;3;4;0; current_date;current_date
+315;315;  'vs Chile' ;1;0;0; current_date;current_date
+316;316;  'vs Uruguay' ;3;1;0; current_date;current_date
+317;317;  'vs Venezuela' ;1;2;2; current_date;current_date
+318;318;  'vs Per�' ;1;2;2; current_date;current_date
+319;319;  'vs Paraguay' ;0;0;1; current_date;current_date
+320;320;  'vs Brasil' ;0;3;0; current_date;current_date
+321;321;  'vs Colombia' ;3;3;0; current_date;current_date
+322;322;  'vs Chile' ;3;1;0; current_date;current_date
+323;323;  'vs Bolivia' ;0;2;0; current_date;current_date
+324;324;  'vs Brasil' ;3;1;0; current_date;current_date
+325;325;  'vs Singapur' ;3;6;0; current_date;current_date
+326;326;  'vs Uruguay' ;1;0;0; current_date;current_date
+327;327;  'vs Venezuela' ;1;1;1; current_date;current_date
+328;328;  'vs Per�' ;1;0;0; current_date;current_date
+329;329;  'vs Ecuador' ;3;3;1; current_date;current_date
+330;330;  'vs Rusia' ;3;1;0; current_date;current_date
+331;331;  'vs Nigeria' ;0;2;4; current_date;current_date
+332;332;  'vs Israel' ;3;2;0; current_date;current_date
+333;333;  'vs Hungr�a' ;1;1;1; current_date;current_date
+334;334;  'vs Moldavia' ;3;1;0; current_date;current_date
+335;335;  'vs San Marino' ;3;10;0; current_date;current_date
+336;336;  'vs Turqu�a' ;3;1;0; current_date;current_date
+337;337;  'vs Rep�blica Checa' ;1;2;2; current_date;current_date
+338;338;  'vs Espa�a' ;3;2;1; current_date;current_date
+339;339;  'vs Portugal' ;0;0;1; current_date;current_date
+340;340;  'vs Turqu�a' ;1;1;1; current_date;current_date
+341;341; 'vs Kosovo' ;3;6;0; current_date;current_date
+342;342;  'vs Finlandia' ;3;1;0; current_date;current_date
+343;343;  'vs Islandia' ;3;2;0; current_date;current_date
+344;344;  'vs Irlanda del Norte' ;3;3;0; current_date;current_date
+345;345;  'vs Chile' ;1;1;1; current_date;current_date
+346;346;  'vs China' ;1;1;1; current_date;current_date
+347;347;  'vs Ucrania' ;3;1;0; current_date;current_date
+348;348;  'vs Estonia' ;0;3;0; current_date;current_date
+349;349;  'vs M�xico' ;3;2;1; current_date;current_date
+350;350;  'vs Islandia' ;0;0;1; current_date;current_date
+351;351;  'vs Kosovo' ;3;1;0; current_date;current_date
+352;352;  'vs Turqu�a' ;0;0;1; current_date;current_date
+353;353;  'vs Finlandia' ;1;1;1; current_date;current_date
+354;354;  'vs Ucrania' ;3;2;0; current_date;current_date
+355;355;  'vs Grecia' ;3;4;1; current_date;current_date
+356;356;  'vs Grecia' ;1;0;0; current_date;current_date
+357;357;  'vs Finlandia' ;3;1;0; current_date;current_date
+358;358;  'vs Emiratos �rabes' ;0;1;2; current_date;current_date
+359;359;  'vs EE.UU' ;0;2;3; current_date;current_date
+360;360;  'vs Dinamarca' ;0;1;2; current_date;current_date
+361;361;  'vs Grecia' ;3;3;2; current_date;current_date
+362;362;  'vs Noruega' ;0;2;3; current_date;current_date
+363;363;  'vs Liechtenstein' ;3;4;0; current_date;current_date
+364;364;  'vs Portugal' ;1;1;1; current_date;current_date
+365;365;  'vs Hungr�a' ;1;1;1; current_date;current_date
+366;366;  'vs Austria' ;3;2;1; current_date;current_date
+367;367;  'vs Inglaterra' ;3;2;1; current_date;current_date
+368;368;  'vs Francia' ;0;2;5; current_date;current_date
+369;369;  'vs  Ucrania' ;1;1;1; current_date;current_date
+370;370; 'vs Finlandia' ;3;3;2; current_date;current_date
+371;371;  'vs Turqu�a' ;3;2;0; current_date;current_date
+372;372;  'vs Croacia' ;0;0;2; current_date;current_date
+373;373; 'vs Malta' ;3;2;0; current_date;current_date
+374;374;  'vs China' ;3;2;0; current_date;current_date
+375;375;  'vs Chile' ;0;0;1; current_date;current_date
+376;376;  'vs M�xico' ;0;0;1; current_date;current_date
+377;377;  'vs Kosovo' ;3;2;1; current_date;current_date
+378;378;  'vs Irlanda' ;3;1;0; current_date;current_date
+379;379;  'vs Croacia' ;3;1;0; current_date;current_date
+380;380;  'vs Finlandia' ;0;0;1; current_date;current_date
+381;381;  'vs Ucrania' ;3;2;0; current_date;current_date
+382;382;  'vs Turqu�a' ;3;3;0; current_date;current_date
+383;383;  'vs Kosovo' ;3;2;0; current_date;current_date
+384;384; 'vs Rep�blica Checa' ;0;1;2; current_date;current_date
+385;385;  'vs Catar' ;1;1;1; current_date;current_date
+386;386;  'vs Indonesia' ;3;6;0; current_date;current_date
+387;387;  'vs Indonesia' ;3;4;1; current_date;current_date
+388;388; 'vs Niger' ;3;4;1; current_date;current_date
+389;389;  'vs T�nez' ;1;1;1; current_date;current_date
+390;390;  'vs Guinea' ;0;0;1; current_date;current_date
+391;391;  'vs Egipto' ;1;1;1; current_date;current_date
+392;392;  'vs Egipto' ;0;0;1; current_date;current_date
+393;393;  'vs Mal�' ;3;1;0; current_date;current_date
+394;394;  'vs Luxemburgo' ;3;3;1; current_date;current_date
+395;395;  'vs Tanzania' ;3;1;0; current_date;current_date
+396;396;  'vs Zambia' ;3;2;1; current_date;current_date
+397;397;  'vs Argelia' ;3;3;1; current_date;current_date
+398;398;  'vs Senegal' ;1;1;1; current_date;current_date
+399;399;  'vs Togo' ;3;3;0; current_date;current_date
+400;400;  'vs Sud�frica' ;0;0;2; current_date;current_date
+401;401;  'vs Ben�n' ;0;0;1; current_date;current_date
+402;402;  'vs Ben�n' ;3;2;0; current_date;current_date
+403;403;  'vs Camer�n' ;3;4;0; current_date;current_date
+404;404;  'vs Camer�n' ;1;1;1; current_date;current_date
+405;405;  'vs Zambia' ;3;1;0; current_date;current_date
+406;406;  'vs Argelia' ;1;1;1; current_date;current_date
+407;407;  'vs Argentina' ;3;4;2; current_date;current_date
+408;408;  'vs Ruanda' ;1;0;0; current_date;current_date
+409;409;  'vs Libia' ;3;1;0; current_date;current_date
+410;410;  'vs Guinea Ecuatorial ' ;3;3;1; current_date;current_date
+411;411;  'vs Angola' ;3;2;1; current_date;current_date
+412;412;  'vs Sud�n' ;3;1;0; current_date;current_date
+413;413;  'vs Marruecos' ;0;0;4; current_date;current_date
+414;414;  'vs Uruguay' ;1;2;2; current_date;current_date
+415;415;  'vs Paraguay' ;1;2;2; current_date;current_date
+416;416;  'vs Panam�' ;3;2;0; current_date;current_date
+417;417;  'vs Ecuador' ;1;0;0; current_date;current_date
+418;418;  'vs Hait�' ;3;7;1; current_date;current_date
+419;419;  'vs Per�' ;0;0;1; current_date;current_date
+420;420;  'vs Ecuador' ;3;3;0; current_date;current_date
+421;421;  'vs Colombia' ;3;2;1; current_date;current_date
+422;422;  'vs Bolivia' ;3;5;0; current_date;current_date
+423;423;  'vs Venezuela' ;3;2;0; current_date;current_date
+424;424;  'vs Argentina' ;3;3;0; current_date;current_date
+425;425;  'vs Per�' ;3;2;0; current_date;current_date
+426;426;  'vs Colombia' ;3;1;0; current_date;current_date
+427;427;  'vs Uruguay' ;3;4;1; current_date;current_date
+428;428;  'vs Paraguay' ;3;3;0; current_date;current_date
+429;429;  'vs Argentina' ;0;0;1; current_date;current_date
+430;430;  'vs Australia' ;3;4;0; current_date;current_date
+431;431;  'vs Ecuador' ;3;2;0; current_date;current_date
+432;432;  'vs Colombia' ;1;1;1; current_date;current_date
+433;433;  'vs Bolivia' ;1;0;0; current_date;current_date
+434;434;  'vs Chile' ;3;3;1; current_date;current_date
+435;435;  'vs Jap�n' ;3;3;1; current_date;current_date
+436;436;  'vs Inglaterra' ;1;0;0; current_date;current_date
+437;437;  'vs Venezuela' ;0;0;1; current_date;current_date
+438;438;  'vs Jamaica' ;1;1;1; current_date;current_date
+439;439;  'vs Jamaica' ;3;3;0; current_date;current_date
+440;440;  'vs Venezuela' ;3;2;1; current_date;current_date
+441;441;  'vs Paraguay' ;1;0;0; current_date;current_date
+442;442;  'vs EE.UU' ;0;0;4; current_date;current_date
+443;443;  'vs Colombia' ;3;3;2; current_date;current_date
+444;444;  'vs Hait�' ;3;1;0; current_date;current_date
+445;445;  'vs Panam�' ;3;3;1; current_date;current_date
+446;446;  'vs Rusia' ;3;4;3; current_date;current_date
+447;447;  'vs Trinidad y Tobago' ;3;2;0; current_date;current_date
+448;448;  'vs EE.UU' ;3;4;0; current_date;current_date
+449;449;  'vs El Salvador' ;1;0;0; current_date;current_date
+450;450;  'vs Belice' ;3;3;0; current_date;current_date
+451;451;  'vs Nicaragua' ;1;0;0; current_date;current_date
+452;452;  'vs Honduras' ;1;1;1; current_date;current_date
+453;453;  'vs Panam�' ;0;0;1; current_date;current_date
+454;454;  'vs M�xico' ;0;0;2; current_date;current_date
+455;455;  'vs Honduras' ;1;1;1; current_date;current_date
+456;456;  'vs Panam�' ;1;0;0; current_date;current_date
+457;457;  'vs Trinidad y Tobago' ;3;2;1; current_date;current_date
+458;458;  'vs Honduras' ;3;1;0; current_date;current_date
+459;459;  'vs Canad�' ;1;1;1; current_date;current_date
+460;460;  'vs Guyana Francesa' ;3;3;0; current_date;current_date
+461;461;  'vs Panam�' ;3;1;0; current_date;current_date
+462;462;  'vs EE.UU' ;0;0;2; current_date;current_date
+463;463;  'vs EE.UU' ;3;2;0; current_date;current_date
+464;464;  'vs M�xico' ;1;1;1; current_date;current_date
+465;465;  'vs Honduras' ;1;1;1; current_date;current_date
+466;466;  'vs Panam�' ;0;1;2; current_date;current_date
+467;467;  'vs Espa�a' ;0;0;5; current_date;current_date
+468;468;  'vs Hungria' ;0;0;1; current_date;current_date
+469;469;  'vs Irlanda' ;0;0;1; current_date;current_date
+470;470;  'vs Bosnia' ;0;0;2; current_date;current_date
+471;471;  'vs B�lgica' ;0;1;2; current_date;current_date
+472;472;  'vs Moldavia' ;3;2;1; current_date;current_date
+473;473;  'vs Albania' ;3;1;0; current_date;current_date
+474;474;  'vs Rumania' ;1;1;1; current_date;current_date
+475;475;  'vs Francia' ;1;0;0; current_date;current_date
+476;476;  'vs Polonia' ;1;1;1; current_date;current_date
+477;477; 'vs Portugal' ;3;2;0; current_date;current_date
+478;478;  'vs Hungr�a' ;3;3;2; current_date;current_date
+479;479;  'vs Andorra' ;3;2;1; current_date;current_date
+480;480;  'vs Islas Faroe' ;3;2;0; current_date;current_date
+481;481;  'vs Letonia' ;3;1;0; current_date;current_date
+482;482;  'vs Bielorrusia' ;3;1;0; current_date;current_date
+483;483;  'vs Islas Faroe' ;3;2;0; current_date;current_date
+484;484;  'vs Andorra' ;3;3;0; current_date;current_date
+485;485;  'vs Letonia' ;3;3;0; current_date;current_date
+486;486;  'vs Hungr�a' ;3;5;2; current_date;current_date
+487;487;  'vs Portugal' ;0;0;2; current_date;current_date
+488;488;  'vs Irlanda del Norte' ;3;1;0; current_date;current_date
+489;489;  'vs Irlanda del Norte' ;1;0;0; current_date;current_date
+490;490;  'vs Polonia' ;0;0;1; current_date;current_date
+491;491;  'vs Estonia' ;3;1;0; current_date;current_date
+492;492;  'vs Chipre' ;3;2;1; current_date;current_date
+493;493;  'vs Israel' ;3;3;1; current_date;current_date
+494;494;  'vs Rusia' ;1;1;1; current_date;current_date
+495;495;  'vs Irlanda' ;1;2;2; current_date;current_date
+496;496;  'vs Moldavia' ;3;3;0; current_date;current_date
+497;497; 'vs Austria' ;3;3;2; current_date;current_date
+498;498;  'vs Gales' ;1;1;1; current_date;current_date
+499;499;  'vs Ucrania' ;0;0;2; current_date;current_date
+500;500;  'vs EE.UU' ;1;0;0; current_date;current_date
+501;501;  'vs Georgia' ;3;3;1; current_date;current_date
+502;502;  'vs Gales' ;1;1;1; current_date;current_date
+503;503;  'vs Moldavia' ;3;3;0; current_date;current_date
+504;504;  'vs Irlanda' ;3;1;0; current_date;current_date
+505;505;  'vs Austria' ;0;2;3; current_date;current_date
+506;506;  'vs Georgia' ;3;1;0; current_date;current_date
+507;507;  'vs China' ;3;2;0; current_date;current_date
+508;508;  'vs Rep�blica de Corea' ;1;1;1; current_date;current_date
+509;509;  'vs Inglaterra' ;0;2;3; current_date;current_date
+510;510;  'vs Italia' ;3;4;1; current_date;current_date
+511;511;  'vs Eslovaquia' ;0;1;3; current_date;current_date
+512;512;  'vs Hungr�a' ;3;2;0; current_date;current_date
+513;513;  'vs Ucrania' ;3;2;0; current_date;current_date
+514;514;  'vs Polonia' ;1;0;0; current_date;current_date
+515;515;  'vs Irlanda del Norte' ;3;1;0; current_date;current_date
+516;516;  'vs Eslovaquia' ;3;3;0; current_date;current_date
+517;517;  'vs Italia' ;3;2;1; current_date;current_date
+518;518;  'vs Francia' ;0;0;2; current_date;current_date
+520;520;  'vs Finlandia' ;3;2;0; current_date;current_date
+521;521;  'vs Noruega' ;3;3;0; current_date;current_date
+522;522;  'vs Rep�blica Checa' ;3;3;0; current_date;current_date
+523;523;  'vs Irlanda del Norte' ;3;2;0; current_date;current_date
+524;524;  'vs San Marino' ;3;8;0; current_date;current_date
+525;525;  'vs Italia' ;1;0;0; current_date;current_date
+526;526;  'vs Inglaterra' ;3;1;0; current_date;current_date
+527;527;  'vs Azerbaiy�n' ;3;4;1; current_date;current_date
+528;528;  'vs Dinamarca' ;1;1;1; current_date;current_date
+529;529;  'vs San Marino' ;3;7;0; current_date;current_date
+530;530;  'vs Australia' ;3;3;2; current_date;current_date
+531;531;  'vs Chile' ;1;1;1; current_date;current_date
+532;532; 'vs Camer�n' ;3;3;1; current_date;current_date
+533;533;  'vs M�xico' ;3;4;1; current_date;current_date
+534;534;  'vs Chile' ;3;1;0; current_date;current_date
+535;535;  'vs Rep�blica Checa' ;3;2;1; current_date;current_date
+536;536;  'vs Noruega' ;3;6;0; current_date;current_date
+537;537;  'vs Irlanda del Norte' ;3;3;1; current_date;current_date
+538;538;  'vs Azerbaiy�n' ;3;5;1; current_date;current_date
+539;539;  'vs Inglaterra' ;1;0;0; current_date;current_date
+540;540;  'vs Francia' ;1;2;2; current_date;current_date
+541;541;  'vs Senegal' ;3;2;0; current_date;current_date 
+542;542;  'vs Canad�' ;3;3;0; current_date;current_date
+543;543;  'vs Canad�' ;3;2;0; current_date;current_date
+544;544;  'vs Paraguay' ;3;1;0; current_date;current_date
+545;545;  'vs Chile' ;3;1;0; current_date;current_date
+546;546;  'vs Uruguay' ;3;3;1; current_date;current_date
+547;547;  'vs Jamaica' ;3;2;0; current_date;current_date
+548;548;  'vs Venezuela' ;1;1;1; current_date;current_date
+549;549;  'vs Chile' ;0;0;7; current_date;current_date
+550;550;  'vs El Salvador' ;3;3;1; current_date;current_date
+551;551;  'vs Honduras' ;1;0;0; current_date;current_date
+552;552;  'vs Nueva Zelanda' ;3;2;1; current_date;current_date
+553;553;  'vs Panam�' ;1;0;0; current_date;current_date
+554;554; 'vs Islandia' ;3;1;0; current_date;current_date
+555;555; 'vs Costa Rica' ;3;2;0; current_date;current_date
+556;556;  'vs Trinidad y Tobago' ;3;1;0; current_date;current_date
+557;557;  'vs Croacia' ;0;1;2; current_date;current_date
+558;558;  'vs Irlanda' ;3;3;1; current_date;current_date
+559;559;  'vs Honduras' ;3;3;0; current_date;current_date
+560;560;  'vs EE.UU' ;1;1;1; current_date;current_date
+561;561;  'vs Portugal' ;1;2;2; current_date;current_date
+562;562;  'vs Nueva Zelanda' ;3;2;1; current_date;current_date
+563;563;  'vs Rusia' ;3;2;1; current_date;current_date
+564;564;  'vs Ghana' ;3;1;0; current_date;current_date
+565;565;  'vs Alemania' ;0;1;4; current_date;current_date
+566;566;  'vs Paraguay'  ;3;2;1; current_date;current_date
+567;567;  'vs Portugal' ;0;1;2; current_date;current_date
+568;568;  'vs El Salvador' ;3;3;1; current_date;current_date
+569;569;  'vs Jamaica' ;1;0;0; current_date;current_date
+570;570;  'vs Curacao' ;3;2;0; current_date;current_date
+571;571;  'vs Honduras' ;3;1;0; current_date;current_date
+572;572;  'vs Jamaica' ;0;0;1; current_date;current_date
+573;573;  'vs Panam�' ;3;1;0; current_date;current_date
+574;574;  'vs Costa Rica' ;1;1;1; current_date;current_date
+575;575;  'vs Trinidad y Tobago' ;3;3;1; current_date;current_date
+576;576;  'vs Honduras' ;0;2;3; current_date;current_date
+577;577;  'vs B�lgica' ;1;3;3; current_date;current_date
+578;578;  'vs Polonia' ;3;1;0; current_date;current_date
+579;579;  'vs Bosnia' ;3;1;0; current_date;current_date
+580;580;  'vs L�bano' ;3;1;0; current_date;current_date
+581;581;  'vs Tailandia' ;3;1;0; current_date;current_date
+582;582;  'vs Kuwait' ;3;3;0; current_date;current_date
+583;583;  'vs Espa�a' ;0;1;6; current_date;current_date
+584;584;  'vs Rep�blica Checa' ;3;2;1; current_date;current_date
+585;585;  'vs China' ;3;3;2; current_date;current_date
+586;586;  'vs Siria' ;1;0;0; current_date;current_date
+587;587;  'vs Catar' ;3;3;2; current_date;current_date
+588;588;  'vs Ir�n' ;0;0;1; current_date;current_date
+589;589;  'vs Canad�' ;3;2;0; current_date;current_date
+590;590;  'vs Uzbekist�n' ;3;2;1; current_date;current_date
+591;591;  'vs China' ;0;0;1; current_date;current_date
+592;592; 'vs Siria' ;3;1;0; current_date;current_date
+593;593;  'vs Irak' ;1;0;0; current_date;current_date
+594;594;  'vs Catar' ;0;2;3; current_date;current_date
+595;595;  'vs Ir�n' ;1;0;0; current_date;current_date
+596;596; 'vs Uzbekist�n' ;1;0;0; current_date;current_date
+597;597;  'vs Rusia' ;0;2;4; current_date;current_date
+598;598;  'vs Marruecos' ;0;1;3; current_date;current_date
+599;599;  'vs Colombia' ;3;2;1; current_date;current_date
+600;600;  'vs Serbia' ;1;1;1; current_date;current_date
+601;601; 'vs China' ;1;2;2; current_date;current_date
+602;602; 'vs Corea del Norte' ;3;1;0; current_date;current_date
+603;603;  'vs Jap�n' ;3;4;1; current_date;current_date
+604;604;  'vs Moldavia' ;3;1;0; current_date;current_date
+605;605;  'vs Jamaica' ;1;2;2; current_date;current_date
+606;606;  'vs Letonia' ;3;1;0; current_date;current_date
+607;607; 'vs Estonia' ;1;1;1; current_date;current_date
+608;608;  'vs Finlandia' ;3;3;0; current_date;current_date
+609;609;  'vs Turqu�a' ;0;1;2; current_date;current_date
+610;610;  'vs Rep�blica Checa' ;1;1;1; current_date;current_date
+611;611;  'vs Eslovenia' ;1;0;0; current_date;current_date
+612;612;  'vs Gales' ;3;3;0; current_date;current_date
+613;613;  'vs Irlanda' ;1;1;1; current_date;current_date
+614;614;  'vs Italia' ;0;0;1; current_date;current_date
+615;615;  'vs B�lgica' ;0;0;1; current_date;current_date
+616;616;  'vs Holanda' ;1;1;1; current_date;current_date
+617;617;  'vs Luxemburgo' ;3;1;0; current_date;current_date
+618;618;  'vs Bulgaria' ;3;3;0; current_date;current_date
+619;619;  'vs Francia' ;0;1;2; current_date;current_date
+620;620;  'vs Hungr�a' ;3;2;0; current_date;current_date
+621;621;  'vs Costa de Marfil' ;0;1;2; current_date;current_date
+622;622;  'vs Eslovaquia' ;3;6;0; current_date;current_date
+623;623;  'vs Bielorrusia' ;3;4;0; current_date;current_date
+624;624;'vs Portugal' ;3;3;2; current_date;current_date
+625;625;  'vs Francia' ;3;2;1; current_date;current_date
+626;626;  'vs Noruega' ;1;1;1; current_date;current_date
+627;627;  'vs Bulgaria' ;0;3;2; current_date;current_date
+628;628; 'vs Bielorrusia' ;3;4;0; current_date;current_date
+629;629;  'vs Luxemburgo' ;3;8;0; current_date;current_date
+630;630;  'vs Holanda' ;0;0;2; current_date;current_date
+631;631;  'vs Italia' ;3;1;0; current_date;current_date
+632;632;  'vs Italia' ;1;0;0; current_date;current_date
+633;633; 'vs Estonia' ;1;1;1; current_date;current_date
+634;634; 'vs Dinamarca' ;3;1;0; current_date;current_date
+635;635; 'vs Portugal' ;0;1;2; current_date;current_date
+636;636; 'vs Suiza' ;3;2;1; current_date;current_date
+637;637; 'vs Finlandia' ;1;1;1; current_date;current_date
+638;638; 'vs Noruega' ;3;3;2; current_date;current_date
+639;639;  'vs Italia' ;0;0;2; current_date;current_date
+640;640;  'vs Irlanda' ;3;3;0; current_date;current_date
+641;641;  'vs Suecia' ;3;1;0; current_date;current_date
+642;642;  'vs Hungr�a' ;3;4;0; current_date;current_date
+643;643;  'vs Gales' ;0;1;3; current_date;current_date
+644;644;  'vs Espa�a' ;0;0;2; current_date;current_date
+645;645;  'vs Chipre' ;3;3;0; current_date;current_date
+646;646;  'vs Bosnia' ;3;4;0; current_date;current_date
+647;647;  'vs Gibraltar' ;3;6;0; current_date;current_date
+648;648;  'vs Holanda' ;1;1;1; current_date;current_date
+649;649;  'vs Estonia' ;3;8;1; current_date;current_date
+650;650;  'vs Grecia' ;1;1;1; current_date;current_date
+651;651;  'vs Rusia' ;1;3;3; current_date;current_date
+652;652;  'vs Rep�blica Checa' ;3;2;1; current_date;current_date
+653;653;  'vs Estonia' ;3;2;0; current_date;current_date
+654;654;  'vs Gibraltar' ;3;9;0; current_date;current_date
+655;655;  'vs Grecia' ;3;2;1; current_date;current_date
+656;656;  'vs Bosnia' ;3;4;3; current_date;current_date
+657;657;  'vs Chipre' ;3;4;0; current_date;current_date
+658;658;  'vs M�xico' ;1;3;3; current_date;current_date
+659;659;  'vs Jap�n' ;3;1;0; current_date;current_date
+660;660;  'vs Alemania' ;3;3;2; current_date;current_date
+661;661;  'vs Holanda' ;0;1;2; current_date;current_date
+662;662;  'vs Turqu�a' ;3;2;1; current_date;current_date
+663;663;  'vs Australia' ;3;2;1; current_date;current_date
+664;664; 'vs Portugal' ;3;1;0; current_date;current_date
+665;665; 'vs Rusia' ;1;1;1; current_date;current_date
+666;666;  'vs Gales' ;3;2;1; current_date;current_date
+667;667;  'vs Eslovaquia' ;1;0;0; current_date;current_date
+668;668;  'vs Islandia' ;0;1;2; current_date;current_date
+669;669; 'vs Eslovaquia' ;3;1;0; current_date;current_date
+670;670; 'vs Malta' ;3;2;0; current_date;current_date
+671;671; 'vs Eslovenia' ;1;0;0; current_date;current_date
+672;672; 'vs Escocia' ;3;3;0; current_date;current_date
+673;673; 'vs Espa�a' ;1;2;2; current_date;current_date
+674;674;  'vs Alemania' ;0;0;1; current_date;current_date
+675;675;  'vs Lituania' ;3;2;0; current_date;current_date
+676;676;  'vs Escocia' ;1;2;2; current_date;current_date
+677;677;  'vs Francia' ;0;3;2; current_date;current_date
+678;678;  'vs Malta' ;3;4;0; current_date;current_date
+679;679;  'vs Eslovaquia' ;3;2;1; current_date;current_date
+680;680;  'vs Eslovenia' ;3;1;0; current_date;current_date
+681;681;  'vs Lituania' ;3;1;0; current_date;current_date
+682;682;  'vs Alemania' ;1;0;0; current_date;current_date
+683;683;  'vs Brasil' ;1;0;0; current_date;current_date
+684;684;  'vs Cuba' ;3;4;0; current_date;current_date
+685;685;  'vs El Salvador' ;3;1;0; current_date;current_date
+686;686;  'vs Nicaragua' ;0;0;1; current_date;current_date
+687;687;  'vs Hait�' ;1;0;0; current_date;current_date
+688;688;  'vs Hait�' ;3;1;0; current_date;current_date
+689;689;  'vs Venezuela' ;1;0;0; current_date;current_date
+690;690;  'vs Brasil' ;0;0;2; current_date;current_date
+691;691; 'vs Bolivia' ;3;2;1; current_date;current_date
+692;692;  'vs Argentina' ;0;0;5; current_date;current_date
+693;693;  'vs Chile' ;0;2;4; current_date;current_date
+694;694;  'vs Guatemala' ;1;0;0; current_date;current_date
+695;695; 'vs Jamaica' ;3;2;0; current_date;current_date
+696;696;  'vs Costa Rica' ;0;1;3; current_date;current_date
+697;697;  'vs M�xico' ;0;0;1; current_date;current_date
+698;698;  'vs Honduras' ;3;1;0; current_date;current_date
+699;699;  'vs M�xico' ;1;0;0; current_date;current_date
+700;700;  'vs Belice' ;1;0;0; current_date;current_date
+701;701;  'vs Nicaragua' ;3;2;1; current_date;current_date
+702;702;  'vs Honduras' ;0;0;1; current_date;current_date
+703;703;  'vs El Salvador' ;3;1;0; current_date;current_date
+704;704;  'vs Costa Rica' ;3;1;0; current_date;current_date
+705;705;  'vs Trinidad y Tobago' ;0;0;1; current_date;current_date
+706;706;  'vs EE.UU' ;1;1;1; current_date;current_date
+707;707;  'vs Costa Rica' ;1;0;0; current_date;current_date
+708;708;  'vs Honduras' ;1;2;2; current_date;current_date
+709;709;  'vs EE.UU' ;1;1;1; current_date;current_date
+710;710;  'vs Nicaragua' ;3;2;1; current_date;current_date
+711;711;  'vs Martinica' ;3;3;0; current_date;current_date
+712;712;  'vs Costa Rica' ;0;0;1; current_date;current_date
+713;713;  'vs M�xico' ;0;0;1; current_date;current_date
+714;714;  'vs Trinidad y tobago' ;3;3;0; current_date;current_date
+715;715;  'vs EE.UU' ;0;0;4; current_date;current_date
+716;716;  'vs Costa Rica' ;3;2;1; current_date;current_date
+717;717;  'vs Granada' ;3;5;0; current_date;current_date
+718;718;  'vs Ir�n' ;0;1;2; current_date;current_date
+719;719;  'vs Gales' ;1;1;1; current_date;current_date
+720;720;  'vs Guinea' ;1;2;2; current_date;current_date
+721;721;  'vs Nigeria' ;1;1;1; current_date;current_date
+722;722;  'vs N�ger' ;3;5;0; current_date;current_date
+723;723;  'vs Mal�' ;0;1;2; current_date;current_date
+724;724;  'vs Togo' ;3;1;0; current_date;current_date
+725;725;  'vs Togo' ;1;0;0; current_date;current_date
+726;726;  'vs Yibuti' ;3;3;0; current_date;current_date
+727;727;  'vs Liberia' ;3;4;1; current_date;current_date
+728;728;  'vs Guinea' ;3;2;0; current_date;current_date
+729;729;  'vs Libia' ;3;1;0; current_date;current_date
+730;730;  'vs Mauritania' ;1;0;0; current_date;current_date
+731;731;  'vs Basque Country' ;0;1;3; current_date;current_date
+732;732;  'vs Uganda' ;3;2;0; current_date;current_date
+733;733;  'vs Egipto' ;0;0;1; current_date;current_date
+734;734;  'vs Senegal' ;0;0;2; current_date;current_date
+735;735;  'vs Argelia' ;3;2;1; current_date;current_date
+736;736;  'vs Zimbabue' ;3;4;2; current_date;current_date
+737;737;  'vs Burkina Faso' ;0;0;2; current_date;current_date
+738;738;  'vs Camer�n' ;0;0;1; current_date;current_date
+739;739;  'vs Marruecos' ;0;0;1; current_date;current_date
+740;740;  'vs Egipto' ;3;1;0; current_date;current_date
+741;741;  'vs Congo' ;3;2;1; current_date;current_date
+742;742;  'vs Congo' ;1;2;2; current_date;current_date
+743;743;  'vs Guinea' ;3;4;1; current_date;current_date
+744;744;  'vs Libia' ;1;0;0; current_date;current_date
+745;745;  'vs Serbia' ;3;1;0; current_date;current_date
+746;746;  'vs Finlandia' ;3;5;0; current_date;current_date
+747;747;  'vs Holanda' ;0;1;2; current_date;current_date
+748;748;  'vs Lituania' ;1;0;0; current_date;current_date
+749;749;  'vs Irlanda del Norte' ;3;1;0; current_date;current_date
+750;750;  'vs Alemania' ;1;0;0; current_date;current_date
+751;751;  'vs Ucrania' ;3;1;0; current_date;current_date
+752;752;  'vs Suiza' ;1;1;1; current_date;current_date
+753;753;  'vs Portugal' ;1;1;1; current_date;current_date
+754;754;  'vs Kazajist�n' ;1;2;2; current_date;current_date
+755;755;  'vs Dinamarca' ;3;3;2; current_date;current_date
+756;756; 'vs Armenia' ;3;2;1; current_date;current_date
+757;757;  'vs Rumania' ;3;3;0; current_date;current_date
+758;758;  'vs Eslovenia' ;1;1;1; current_date;current_date
+759;759;  'vs Montenegro' ;3;2;1; current_date;current_date
+760;760;  'vs Ruman�a' ;3;3;1; current_date;current_date
+761;761;  'vs Dinamarca' ;0;0;4; current_date;current_date
+762;762;  'vs Kazajist�n' ;3;3;0; current_date;current_date
+763;763;  'vs Armenia' ;3;6;1; current_date;current_date
+764;764;  'vs Montenegro' ;3;4;2; current_date;current_date
+765;765;  'vs Uruguay' ;1;0;0; current_date;current_date
+766;766;'vs M�xico' ;0;0;1; current_date;current_date
+767;767;  'vs Bolivia' ;3;3;2; current_date;current_date
+768;768;  'vs Ecuador' ;3;3;1; current_date;current_date
+770;770;  'vs Hait�' ;3;3;1; current_date;current_date
+771;771;  'vs EE.UU' ;3;2;0; current_date;current_date
+772;772;  'vs Paraguay' ;3;2;1; current_date;current_date
+773;773;  'vs Costa Rica' ;0;2;3; current_date;current_date
+774;774;  'vs Per�' ;1;0;0; current_date;current_date
+775;775;  'vs Chile' ;0;0;2; current_date;current_date
+776;776;  'vs EE.UU' ;3;1;0; current_date;current_date
+777;777;  'vs Venezuela' ;3;2;0; current_date;current_date
+778;778;  'vs Brasil' ;0;1;2; current_date;current_date
+779;779;  'vs Paraguay' ;3;1;0; current_date;current_date
+780;780;  'vs Uruguay' ;1;2;2; current_date;current_date
+781;781;  'vs Chile' ;1;0;0; current_date;current_date
+782;782;  'vs Argentina' ;0;0;3; current_date;current_date
+783;783;  'vs Brasil' ;0;0;1; current_date;current_date
+784;784;  'vs Bolivia' ;3;1;0; current_date;current_date
+785;785;  'vs Ecuador' ;3;2;0; current_date;current_date
+786;786;  'vs Espa�a' ;1;2;2; current_date;current_date
+787;787;  'vs Camer�n' ;3;4;0; current_date;current_date
+788;788;  'vs Venezuela' ;1;0;0; current_date;current_date
+789;789;  'vs Brasil' ;1;1;1; current_date;current_date
+790;790;  'vs Paraguay' ;0;1;2; current_date;current_date
+791;791;  'vs Per�' ;1;1;1; current_date;current_date
+792;792;  'vs Rep�blica de Corea' ;0;1;2; current_date;current_date
+793;793;  'vs China' ;3;4;0; current_date;current_date
+794;794;  'vs Afganist�n' ;3;5;0; current_date;current_date
+795;795;  'vs Siria' ;3;5;0; current_date;current_date
+796;796; 'vs Bulgaria' ;3;7;2; current_date;current_date
+797;797;  'vs Bosnia' ;0;1;2; current_date;current_date
+798;798;  'vs Emiratos �rabes' ;0;1;2; current_date;current_date
+799;799; 'vs Tailandia' ;3;2;0; current_date;current_date
+800;800; 'vs Irak' ;3;2;1; current_date;current_date
+801;801;  'vs Australia' ;1;1;1; current_date;current_date
+802;802;  'vs Om�n' ;3;4;0; current_date;current_date
+803;803;  'vs Arabia Saudita' ;3;2;1; current_date;current_date
+804;804;  'vs Emiratos �rabes' ;3;2;0; current_date;current_date
+805;805;  'vs Tailandia' ;3;4;0; current_date;current_date
+806;806;  'vs Siria' ;1;1;1; current_date;current_date
+807;807;  'vs Irak' ;1;1;1; current_date;current_date
+808;808;  'vs Australia' ;3;2;0; current_date;current_date
+809;809;  'vs Arabia Saudita' ;0;0;1; current_date;current_date
+810;810;  'vs Nueva Zelanda' ;3;2;1; current_date;current_date
+811;811;  'vs Hait�' ;1;3;3; current_date;current_date
+812;812;  'vs Brasil' ;0;1;3; current_date;current_date
+813;813;  'vs B�lgica' ;0;0;1; current_date;current_date
+814;814;  'vs Corea del Norte' ;3;1;0; current_date;current_date
+815;815;  'vs China' ;3;2;1; current_date;current_date
+816;816;  'vs Rep�blica de Corea' ;0;1;4; current_date;current_date
+817;817;  'vs M�xico' ;0;0;2; current_date;current_date
+818;818;  'vs N�ger' ;3;2;0; current_date;current_date
+819;819;  'vs Niger' ;3;2;1; current_date;current_date
+820;820;  'vs Ruanda' ;3;2;0; current_date;current_date
+821;821; 'vs Burundi' ;3;2;0; current_date;current_date
+822;822;  'vs Namibia' ;3;2;0; current_date;current_date
+823;823;  'vs Isla de Cabo verde' ;3;2;0; current_date;current_date
+824;824;  'vs Libia' ;3;2;1; current_date;current_date
+825;825;  'vs Congo' ;3;2;0; current_date;current_date
+826;826;  'vs T�nez' ;3;2;0; current_date;current_date
+827;827;  'vs Zimbabue' ;3;2;0; current_date;current_date
+828;828;  'vs Argelia' ;1;2;2; current_date;current_date
+829;829;  'vs Camer�n' ;0;0;1; current_date;current_date
+830;830;  'vs Nigeria' ;1;1;1; current_date;current_date
+831;831;  'vs Mauritania' ;3;2;0; current_date;current_date
+832;832;  'vs Uganda' ;1;0;0; current_date;current_date
+833;833;  'vs Guinea Ecuatorial' ;3;3;0; current_date;current_date
+834;834;  'vs Sierra Leona' ;1;1;1; current_date;current_date
+835;835;  'vs Guinea' ;3;3;1; current_date;current_date
+836;836;  'vs Guinea' ;0;0;5; current_date;current_date
+837;837;  'vs Burkina Faso' ;1;0;0; current_date;current_date
+838;838;  'vs Burkina Faso' ;1;2;2; current_date;current_date
+839;839;  'vs Isla de Cabo Verde' ;3;2;0; current_date;current_date
+840;840; 'vs Sud�frica' ;3;2;0; current_date;current_date
+841;841;  'vs Sud�frica' ;3;2;1; current_date;"current_date;"

@@ -1,0 +1,25 @@
+<h1>Listado de Equipos</h1>
+
+<%= link_to 'Crear nuevo Equipo', new_equipo_path %>
+<%= link_to 'Atras ', welcome_index_path %>
+
+<table>
+  <tr>
+    <th>Codigo</th>
+    <th>Nombre de Equipo</th>
+    <th>Activo</th>
+    <th>Fecha Creacion</th>
+  </tr>
+
+  <% @equipo.each do |equipo| %>
+    <tr>
+      <td><%= equipo.cod_equipo %></td>
+      <td><%= equipo.nom_equipo %></td>
+      <td><%= equipo.activo_equipo %></td>
+      <td><%= equipo.fecha_creacion %></td>
+      <td><%= equipo.porcentaje %></td>
+      <td><%= link_to 'Mostrar', equipo_path(equipo) %></td>
+      <td><%= link_to 'Editar', edit_equipo_path(equipo) %></td>
+    </tr>
+  <% end %>
+</table>
